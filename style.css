@@ -1,0 +1,25 @@
+.item{
+    position: sticky;
+    background-color: aqua;
+}
+
+.container{
+    /* position: absolute; */
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.picture{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+button{
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
